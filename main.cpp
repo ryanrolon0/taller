@@ -1,7 +1,6 @@
 #include <iostream>
+using namespace std;
 
 int main() {
-    while (1) {
-        std::cout << "HOLA" << std::endl;
-    }
+    cout << "i hate ccom !!!!!!!!!!!! " << endl;
 }
