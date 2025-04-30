@@ -1,4 +1,5 @@
 #include <iostream>
+using namespace std;
 
 int main() {
     int var = 0;
@@ -6,4 +7,5 @@ int main() {
         std::cout << "CCOM" << var << std::endl;
         var += 1;
     }
+    cout << "I love CCOM !!!!!!!!!!! " << endl;
 }
