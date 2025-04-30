@@ -1,7 +1,9 @@
 #include <iostream>
 
 int main() {
-    while (1) {
-        std::cout << "HOLA" << std::endl;
+    int var = 0;
+    while (var < 3034) {
+        std::cout << "CCOM" << var << std::endl;
+        var += 1;
     }
 }
