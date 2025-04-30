@@ -1,11 +1,13 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main()
+{
     int var = 0;
-    while (var < 3034) {
+    while (var < 3034)
+    {
         std::cout << "CCOM" << var << std::endl;
         var += 1;
     }
-    cout << "I love CCOM !!!!!!!!!!! " << endl;
+    cout << "I hate CCOM !!!!!!!!!!! " << endl;
 }
